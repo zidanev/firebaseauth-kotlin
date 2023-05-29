@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966533800084",
+    "project_id": "anabul-app",
+    "storage_bucket": "anabul-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966533800084:android:8eb1872c55bfdc4abb1481",
+        "android_client_info": {
+          "package_name": "com.example.anabul_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0H-fShDzaImzbmLeosTQeEXwIOEu5vYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
